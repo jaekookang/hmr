@@ -84,6 +84,7 @@ def visualize(img, proc_param, joints, verts, cam):
     plt.imshow(rend_img_vp2)
     plt.title('diff vp')
     plt.axis('off')
+    plt.savefig('test.png')
     plt.draw()
     plt.show()
     # import ipdb

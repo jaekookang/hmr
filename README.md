@@ -1,5 +1,25 @@
 # End-to-end Recovery of Human Shape and Pose
 
+Updated HMR repository for the purpose of running it on Python3.
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaekookang/hmr/blob/master/human_motion_recognition_test.ipynb)
+
+
+## Note
+- 2021-07-07
+	- Five files updated
+
+		```bash
+		src/models.py
+		src/config.py
+		src/util/renderer.py
+		src/tf_smpl/batch_lbs.py
+		src/tf_smpl/batch_smpl.py
+		```
+
+---
+
 Angjoo Kanazawa, Michael J. Black, David W. Jacobs, Jitendra Malik
 CVPR 2018
 
