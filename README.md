@@ -16,6 +16,7 @@ Updated HMR repository for the purpose of running it on Python3.
 		src/util/renderer.py
 		src/tf_smpl/batch_lbs.py
 		src/tf_smpl/batch_smpl.py
+		demo.py
 		```
 
 ---
